@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primero</string>
+    <string name="letro1">Programando mi primer aplicacion</string>
+    <string name="ingresa">Ingresa tu nombre</string>
+    <string name="ingresa1">Escribe tu nombre aqui</string>
+    <string name="edad">Ingresa tu edad</string>
+</resources>
